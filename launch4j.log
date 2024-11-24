@@ -1,0 +1,350 @@
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\Private\devil code\java code\project\block breker.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\Private\devil code\java code\project\block breker.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\Private\devil code\java code\project\block breker.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\Private\devil code\java code\project\block breker.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\Private\devil code\java code\project\block breker.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Main class:	aa
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "D:\Private\devil code\java code\project\block breker.exe" aa
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Main class:	aa
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "D:\Private\devil code\java code\project\block breker.exe" aa
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Main class:	aa
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "D:\Private\devil code\java code\project\block breker.exe" aa
+Args length:	72/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Private\devil code\java code\project\block breker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Private\devil code\java code\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python312\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\sachi\AppData\Local\Programs\Python\Python38\;C:\Users\sachi\AppData\Local\Microsoft\WindowsApps;C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sachi\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\7.0\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Python\Python38\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\sachi\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\7.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Main class:	aa
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "D:\Private\devil code\java code\project\block breker.exe" aa
+Args length:	72/32768 chars
+Exit code:	0
